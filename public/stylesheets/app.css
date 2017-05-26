@@ -10,7 +10,7 @@ body {
 main {
     background-color: white;
     padding: 16px;
-    font-family: raleway;
+    font-family: helvetica;
 }
 
 .post {
@@ -29,3 +29,6 @@ a:hover {
     color: #000;
 }
 
+.username {
+  font-family: railway;  
+}
