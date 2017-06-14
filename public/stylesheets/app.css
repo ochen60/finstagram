@@ -21,14 +21,7 @@ main {
     border-radius: 50%;
 }
 
-a:visited {
-    color: #FFFF00;
-}
-
-a:hover {
-    color: #000;
-}
-
 .username {
   font-family: railway;  
 }
+
